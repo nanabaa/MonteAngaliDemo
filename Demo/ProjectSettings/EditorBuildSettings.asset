@@ -8,4 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/mapa.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/jogar.unity
+    guid: 58ad0d2b6cd996746be12013b83fefae
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 884f360522261b942af89bb514539953
+  - enabled: 1
+    path: Assets/Scenes/opcoes.unity
+    guid: 6e35aaedbe1ed9a478100e546e7e2766
   m_configObjects: {}
